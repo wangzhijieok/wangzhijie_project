@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文献阅读.md",
+                "file": "blbl/b站课程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文献阅读"
+              "title": "b站课程"
             }
           }
         ]
@@ -164,24 +164,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d528658f44f8bc24",
+  "active": "40b141644651853d",
   "lastOpenFiles": [
+    "blbl/Pasted image 20251109194838.png",
+    "blbl/Pasted image 20251109203822.png",
+    "blbl/Pasted image 20251109203843.png",
+    "blbl/b站课程.md",
+    "blbl/Pasted image 20251109210158.png",
+    "blbl",
+    "深度学习/未命名.md",
+    "文献阅读.md",
     "矩阵作业 2025888004王智杰.md",
+    "blbl/Pasted image 20251109205828.png",
+    "blbl/Pasted image 20251109205850.png",
+    "深度学习/笔记.md",
     "复试oj/hdoj.md",
     "复试oj/python学习笔记.md",
-    "深度学习/笔记.md",
     "实验/Dice改动态lr.png",
     "实验/f33a3dd4-4576-4878-98e0-65319a4f874c.png",
     "实验/From Macro to Micro A Lightweight Interleaved  Network for Remote Sensing Image  Change Detection.md",
     "实验/原模型改动态lr.png",
     "实验/myplot.png",
-    "实验/学习率减小到1e-4.png",
-    "实验/loss改进.png",
-    "实验/plot_2025-11-03 17-31-41_0.png",
-    "实验/plot_2025-11-03 17-31-41_1.png",
-    "实验/plot_2025-11-03 17-31-41_2.png",
-    "实验/plot_2025-11-03 17-59-13_0.png",
-    "文献阅读.md",
     "实验",
     "2025888005 刘宝庆.md",
     "深度学习",
