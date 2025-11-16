@@ -5,7 +5,7 @@ lr = 0.001，epoch = 20， bs = 4
 ![[plot_2025-11-03 19-53-04_1.png]]
 
 ![[plot_2025-11-03 19-53-04_2.png]]
-![[实验/myplot.png]]
+![[Assets/img/myplot.png]]
 分析：train稳步下降说明训练有效，无过拟合，不是学习率的问题 bach也合适，
 但是val震荡不降，并且一直保持在0.5-0.7之间
 考虑验证集未归一化 / 标签插值错误，统一 train/val transform，标签 NEAREST 插值

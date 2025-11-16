@@ -172,4 +172,4 @@ $$
 ## self-attention
 1.计算输入词之间的关联程度
 2.
-![[Pasted image 20251109205850.png]]![[Pasted image 20251109210158.png]]
+![[Pasted image 20251109205850.png]]![[Pasted image 20251109210158.png]]![[Pasted image 20251112170250.png]]![[Pasted image 20251112170304.png]]![[Pasted image 20251112170327.png]]
