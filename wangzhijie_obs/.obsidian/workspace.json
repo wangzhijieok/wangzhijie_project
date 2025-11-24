@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blbl/b站课程.md",
+                "file": "深度学习/笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b站课程"
+              "title": "笔记"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "d528658f44f8bc24",
   "lastOpenFiles": [
-    "深度学习/笔记.md",
     "blbl/b站课程.md",
+    "深度学习/笔记.md",
     "六级笔记.md",
     "矩阵作业 2025888004王智杰.md",
     "文献阅读.md",
